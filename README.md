@@ -7,7 +7,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 Öncelikle projeyi clonelayın.
 ```
-https://github.com/omererbey/kodluyoruzilkrepo.git
+git clone https://github.com/omererbey/kodluyoruzilkrepo.git
 ``` 
 
 ## Usage
